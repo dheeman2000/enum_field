@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
