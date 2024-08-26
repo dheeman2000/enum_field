@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
